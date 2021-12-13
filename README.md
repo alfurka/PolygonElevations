@@ -16,6 +16,10 @@ pip install pandas numpy matplotlib shapely
 
 A Polygon from Istanbul:
 
+![](istanbul_poly.png)
+
+Elevation map from Istanbul:
+
 ![](istanbul_elev.png)
 
 See here for more examples.
